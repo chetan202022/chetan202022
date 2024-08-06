@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chetan
-- 👀 I’m interested in Programming 
+- 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me www.linkedin.com/in/chetan-yadav-a21b0a289
 
