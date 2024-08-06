@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chetan202022
+- 👋 Hi, I’m Chetan
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me www.linkedin.com/in/chetan-yadav-a21b0a289
